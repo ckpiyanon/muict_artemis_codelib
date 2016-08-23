@@ -1,25 +1,25 @@
 # TOPICS
-closest-pair
-union-find
-geometry
-sieve
-string matching - KMP
+Closest Pair  
+Union-Find  
+Geometry  
+Sieve of Eratosthenes  
+String Matching - KMP  
 
 ## DYNAMIC PROGRAMMING
-coin change
-0-1 knapsack
-travelling salesman
-longest increasing subsequence
-longest common subsequence
-edit distance
+Coin Change  
+0-1 Knapsack  
+Travelling Salesman  
+Longest Increasing Subsequence  
+Longest Common Subsequence  
+Edit Distance  
 
 ## GRAPH
-prim
-kruskal
-tarjan
-kosaraju
-dijkstra
-bellman-ford
-network flow
-eulerian graph
-floyd-warshall
+Prim  
+Kruskal  
+Tarjan  
+Kosaraju  
+Dijkstra  
+Bellman-Ford  
+Network Flow  
+Eulerian Graph  
+Floyd-Warshall  
